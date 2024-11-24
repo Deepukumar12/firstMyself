@@ -1,2 +1,2 @@
 # firstMyself
-I am creating first time.
+I am creating first time. git repo
